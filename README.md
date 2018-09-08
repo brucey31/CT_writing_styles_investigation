@@ -7,7 +7,7 @@ To get into the editorial mindset of Culture Trip I wanted to see what differenc
 ## Research Points
 - Find out how many authors there are contribution to Culture trip, where they write for and how many articles each they have written?
 - When is the key time of the year for Culture trip to create content?
-- How has the bredth of cultures been written about during the company's history?[google maps gif](https://github.com/brucey31/CT_writing_styles_investigation/blob/master/images/CT_Over_time.gif)
+- How has the bredth of cultures been written about during the company's history?![google maps gif](https://github.com/brucey31/CT_writing_styles_investigation/blob/master/images/CT_Over_time.gif)
 - Is there a distinctive **writing style** that defines Culture trip articles using the "[Elements of Writing Style](http://write-site.athabascau.ca/documentation/elements-of-style.pdf)" by Athabasca University
 
   
