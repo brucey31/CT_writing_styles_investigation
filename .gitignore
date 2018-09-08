@@ -1,1 +1,6 @@
 .DS_Store
+.ipynb_checkpoints/
+CT_article_dataframe.csv
+CT_cleaned_content_dataset.csv
+CT_urls.csv
+src/__pycache__/

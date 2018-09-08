@@ -1,13 +1,13 @@
 # Culture Trip Articles and Writing Styles Investigation
 -- Bruce Pannaman
-[![N|Solid](https://lever-client-logos.s3.amazonaws.com/52aaf896-c74d-45bb-9429-1481df4377ec-1526046157413.png)](https://nodesource.com/products/nsolid)
+![Culture Trip Logo](https://github.com/brucey31/CT_writing_styles_investigation/blob/master/images/culture_trip.png)
 
 To get into the editorial mindset of Culture Trip I wanted to see what differences there were in the articles, and other information about what is happening.
-
+ 
 ## Research Points
 - Find out how many authors there are contribution to Culture trip, where they write for and how many articles each they have written?
 - When is the key time of the year for Culture trip to create content?
-- How has the bredth of cultures been written about during the company's history?
+- How has the bredth of cultures been written about during the company's history?[google maps gif](https://github.com/brucey31/CT_writing_styles_investigation/blob/master/images/CT_Over_time.gif)
 - Is there a distinctive **writing style** that defines Culture trip articles using the "[Elements of Writing Style](http://write-site.athabascau.ca/documentation/elements-of-style.pdf)" by Athabasca University
 
   
